@@ -2,7 +2,7 @@
 
 # LumiROM Ecosystem
 
-<img src="https://raw.githubusercontent.com/LumiROM/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo" width="400"/>
+<img src="https://raw.githubusercontent.com/LumiROM/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo"/>
 
 ### One UI & Galaxy AI for Samsung MediaTek devices
 
@@ -68,6 +68,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 </table>
 
 ---
+<div align="center">
 
 ## Supported Devices
 
@@ -79,6 +80,8 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 | Galaxy A32 | SM-A325M | FOD | A34 (SM-A346B) |
 | Galaxy F22 | SM-E225F | Side-FP | A24 (SM-A245F) |
 | Galaxy M32 | SM-M325F | FOD | A34 (SM-A346B) |
+
+</div>
 
 ---
 
@@ -108,7 +111,7 @@ Get the latest flashable ZIP from the [Telegram channel](https://t.me/LumiROMs) 
 # Local build
 git clone https://github.com/LumiROM/LumiROM.git
 cd LumiROM
-bash build_local.sh -s SM-A325F -c DBT -i 353117555323497
+bash build_local.sh -s SM-A325F -c EUX -i 353117555323497
 ```
 
 Or fork the repo and run the **LumiROM Tools** workflow from the Actions tab.
