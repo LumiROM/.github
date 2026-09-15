@@ -2,7 +2,7 @@
 
 # LumiROM Ecosystem
 
-<img src="https://raw.githubusercontent.com/Luminous418/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo" width="400"/>
+<img src="https://raw.githubusercontent.com/Luminous418/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo"/>
 
 ### One UI & Galaxy AI for Samsung MediaTek devices
 
