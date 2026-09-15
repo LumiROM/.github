@@ -121,8 +121,8 @@ Or fork the repo and run the **LumiROM Tools** workflow from the Actions tab.
 ## Community
 
 [![Telegram](https://img.shields.io/badge/Telegram-LumiROMs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LumiROMs)
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luminous418/LumiROM/issues)
-[![Documentation](https://img.shields.io/badge/Docs-Official_Site-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white)](https://luminous418.github.io/LumiROM_page/)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LumiROM/LumiROM/issues)
+[![Documentation](https://img.shields.io/badge/Docs-Official_Site-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lumirom.qzz.io/)
 
 ---
 
