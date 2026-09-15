@@ -69,6 +69,8 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 
 ---
 
+<div align="center">
+
 ## Supported Devices
 
 | Device | Model | Fingerprint | Base |
@@ -79,6 +81,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 | Galaxy A32 | SM-A325M | FOD | A34 (SM-A346B) |
 | Galaxy F22 | SM-E225F | Side-FP | A24 (SM-A245F) |
 | Galaxy M32 | SM-M325F | FOD | A34 (SM-A346B) |
+</div>
 
 ---
 
