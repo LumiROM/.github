@@ -2,13 +2,13 @@
 
 # LumiROM Ecosystem
 
-<img src="https://raw.githubusercontent.com/Luminous418/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo"/>
+<img src="https://raw.githubusercontent.com/LumiROM/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo" width="400"/>
 
 ### One UI & Galaxy AI for Samsung MediaTek devices
 
 ![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Luminous418?style=for-the-badge&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/Luminous418/LumiROM?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/LumiROM/LumiROM?style=for-the-badge&logo=github)
 
 <br>
 
@@ -27,11 +27,11 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
       <h3>LumiROM</h3>
       <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies Galaxy AI, debloat, Knox patches, performance tweaks and EROFS packaging — via GitHub Actions or local build.</p>
       <p><sub>One UI 8.5 &bull; 6 devices &bull; 150+ apps removed &bull; Galaxy AI ✨</sub></p>
-      <a href="https://github.com/Luminous418/LumiROM">
+      <a href="https://github.com/LumiROM/LumiROM">
         <img src="https://img.shields.io/badge/LumiROM-Custom_ROM-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="LumiROM">
       </a>
-      <a href="https://github.com/Luminous418/LumiROM/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/Luminous418/LumiROM/OneUi8-5.yml?branch=OneUI8.5&style=for-the-badge&logo=github&label=Build" alt="CI Status">
+      <a href="https://github.com/LumiROM/LumiROM/actions">
+        <img src="https://img.shields.io/github/actions/workflow/status/LumiROM/LumiROM/OneUi8-5.yml?branch=OneUI8.5&style=for-the-badge&logo=github&label=Build" alt="CI Status">
       </a>
     </td>
   </tr>
@@ -50,7 +50,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
       <h3>LumiROM Page</h3>
       <p><b>Official documentation site.</b> Sphinx-powered docs covering supported devices, features, build methods and changelogs.</p>
       <p><sub>HTML &bull; Sphinx &bull; Hosted on GitHub Pages</sub></p>
-      <a href="https://github.com/Luminous418/LumiROM_page">
+      <a href="https://github.com/LumiROM/LumiROM_page">
         <img src="https://img.shields.io/badge/LumiROM_Page-Docs-DB2777?style=for-the-badge&logo=sphinx&logoColor=white" alt="LumiROM Page">
       </a>
     </td>
@@ -60,7 +60,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
       <h3>A32 Useful Things</h3>
       <p><b>Galaxy A32 dev resources.</b> Community-driven collection of custom recoveries (TWRP, OFOX, SHRP, PBRP), ADB/Fastboot installers, Odin, drivers and technical docs for the A325 series.</p>
       <p><sub>Galaxy A32 &bull; A325F / A325M &bull; MediaTek Helio G80</sub></p>
-      <a href="https://github.com/Luminous418/a32-useful-things">
+      <a href="https://github.com/LumiROM/a32-useful-things">
         <img src="https://img.shields.io/badge/a32_useful_things-Dev_Resources-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="A32 Useful Things">
       </a>
     </td>
@@ -68,8 +68,6 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 </table>
 
 ---
-
-<div align="center">
 
 ## Supported Devices
 
@@ -81,7 +79,6 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 | Galaxy A32 | SM-A325M | FOD | A34 (SM-A346B) |
 | Galaxy F22 | SM-E225F | Side-FP | A24 (SM-A245F) |
 | Galaxy M32 | SM-M325F | FOD | A34 (SM-A346B) |
-</div>
 
 ---
 
@@ -109,7 +106,7 @@ Get the latest flashable ZIP from the [Telegram channel](https://t.me/LumiROMs) 
 
 ```bash
 # Local build
-git clone https://github.com/Luminous418/LumiROM.git
+git clone https://github.com/LumiROM/LumiROM.git
 cd LumiROM
 bash build_local.sh -s SM-A325F -c DBT -i 353117555323497
 ```
@@ -122,7 +119,7 @@ Or fork the repo and run the **LumiROM Tools** workflow from the Actions tab.
 
 [![Telegram](https://img.shields.io/badge/Telegram-LumiROMs-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LumiROMs)
 [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LumiROM/LumiROM/issues)
-[![Documentation](https://img.shields.io/badge/Docs-Official_Site-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white)](https://lumirom.qzz.io/)
+[![Documentation](https://img.shields.io/badge/Docs-Official_Site-DB2777?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/LumiROM/LumiROM_page)
 
 ---
 
