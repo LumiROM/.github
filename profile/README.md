@@ -12,8 +12,8 @@
 
 <br>
 
-**LumiROM** takes official Samsung firmware and reconstructs it from scratch — applying heavy optimizations,
-Galaxy AI features, Knox patches, and EROFS compression — to give low-end MediaTek devices a completely new life.
+**LumiROM** takes official Samsung firmware and reconstructs it from scratch - applying heavy optimizations,
+Galaxy AI features, Knox patches, and EROFS compression - to give low-end MediaTek devices a completely new life.
 
 </div>
 
@@ -25,7 +25,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
   <tr>
     <td colspan="2" align="center">
       <h3>LumiROM</h3>
-      <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies Galaxy AI, debloat, Knox patches, performance tweaks and EROFS packaging — via GitHub Actions or local build.</p>
+      <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies Galaxy AI, debloat, Knox patches, performance tweaks and EROFS packaging - via GitHub Actions or local build.</p>
       <p><sub>One UI 8.5 &bull; 5 devices &bull; 150+ apps removed &bull; Galaxy AI ✨</sub></p>
       <a href="https://github.com/LumiROM/LumiROM">
         <img src="https://img.shields.io/badge/LumiROM-Custom_ROM-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="LumiROM">
@@ -38,7 +38,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
   <tr>
     <td colspan="2" align="center">
       <h3>Cloudy</h3>
-      <p><b>OTA client for LumiROM.</b> Checks for updates, downloads the ROM, verifies SHA-256, and triggers installation in recovery — all from the phone. Self-updates too.</p>
+      <p><b>OTA client for LumiROM.</b> Checks for updates, downloads the ROM, verifies SHA-256, and triggers installation in recovery - all from the phone. Self-updates too.</p>
       <p><sub>Android app &bull; Kotlin &bull; Privileged system app</sub></p>
       <a href="https://github.com/Luminous418/cloudy">
         <img src="https://img.shields.io/badge/Cloudy-OTA_Updater-2563EB?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloudy">
