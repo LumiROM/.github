@@ -26,7 +26,7 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
     <td colspan="2" align="center">
       <h3>LumiROM</h3>
       <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies Galaxy AI, debloat, Knox patches, performance tweaks and EROFS packaging — via GitHub Actions or local build.</p>
-      <p><sub>One UI 8.5 &bull; 6 devices &bull; 150+ apps removed &bull; Galaxy AI ✨</sub></p>
+      <p><sub>One UI 8.5 &bull; 5 devices &bull; 150+ apps removed &bull; Galaxy AI ✨</sub></p>
       <a href="https://github.com/LumiROM/LumiROM">
         <img src="https://img.shields.io/badge/LumiROM-Custom_ROM-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="LumiROM">
       </a>
@@ -75,7 +75,6 @@ Galaxy AI features, Knox patches, and EROFS compression — to give low-end Medi
 | Device | Model | Fingerprint | Base |
 | :--- | :---: | :---: | :---: |
 | Galaxy A22 | SM-A225F | Side-FP | A24 (SM-A245F) |
-| Galaxy A22 5G | SM-A226B | Side-FP | A24 (SM-A245F) |
 | Galaxy A32 | SM-A325F | FOD | A34 (SM-A346B) |
 | Galaxy A32 | SM-A325M | FOD | A34 (SM-A346B) |
 | Galaxy F22 | SM-E225F | Side-FP | A24 (SM-A245F) |
