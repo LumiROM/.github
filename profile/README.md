@@ -30,9 +30,6 @@ Galaxy AI features, Knox patches, and EROFS compression - to give low-end MediaT
       <a href="https://github.com/LumiROM/LumiROM">
         <img src="https://img.shields.io/badge/LumiROM-Custom_ROM-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="LumiROM">
       </a>
-      <a href="https://github.com/LumiROM/LumiROM/actions">
-        <img src="https://img.shields.io/github/actions/workflow/status/LumiROM/LumiROM/OneUi8-5.yml?branch=OneUI8.5&style=for-the-badge&logo=github&label=Build" alt="CI Status">
-      </a>
     </td>
   </tr>
   <tr>
