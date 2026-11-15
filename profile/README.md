@@ -2,9 +2,9 @@
 
 # LumiROM Ecosystem
 
-<img src="https://raw.githubusercontent.com/LumiROM/LumiROM/OneUI8.5/LumiROM/logo/LumiROM.png" alt="LumiROM Logo"/>
+<img src="https://raw.githubusercontent.com/LumiROM/LumiROM/main/LumiROM/logo/LumiROM.png" alt="LumiROM Logo"/>
 
-### One UI & Galaxy AI for Samsung MediaTek devices
+### One UI for Samsung MediaTek devices
 
 ![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Luminous418?style=for-the-badge&logo=github&label=Followers)
@@ -13,7 +13,9 @@
 <br>
 
 **LumiROM** takes official Samsung firmware and reconstructs it from scratch - applying heavy optimizations,
-Galaxy AI features, Knox patches, and EROFS compression - to give low-end MediaTek devices a completely new life.
+Knox patches, EROFS compression and a performance-first profile - to give low-end MediaTek devices a completely new life.
+
+> **Why no Galaxy AI?** These phones (4-6 GB RAM, no NPU) cannot run the full AI stack without lag, memory pressure and battery drain, so official LumiROM builds are AI-free. AI is disabled by default; add `--ai` if you want to compile it in.
 
 </div>
 
@@ -25,8 +27,8 @@ Galaxy AI features, Knox patches, and EROFS compression - to give low-end MediaT
   <tr>
     <td colspan="2" align="center">
       <h3>LumiROM</h3>
-      <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies Galaxy AI, debloat, Knox patches, performance tweaks and EROFS packaging - via GitHub Actions or local build.</p>
-      <p><sub>One UI 8.5 &bull; 5 devices &bull; 150+ apps removed &bull; Galaxy AI ✨</sub></p>
+      <p><b>The core.</b> Custom ROM that downloads Samsung firmware, applies debloat, Knox patches, performance tweaks and EROFS packaging - via GitHub Actions or local build.</p>
+      <p><sub>One UI 9 &bull; 5 devices &bull; 150+ apps removed &bull; AI-free by default</sub></p>
       <a href="https://github.com/LumiROM/LumiROM">
         <img src="https://img.shields.io/badge/LumiROM-Custom_ROM-7C3AED?style=for-the-badge&logo=android&logoColor=white" alt="LumiROM">
       </a>
@@ -85,7 +87,7 @@ Galaxy AI features, Knox patches, and EROFS compression - to give low-end MediaT
 
 <table>
   <tr>
-    <td width="50%"><h4>Galaxy AI ✨</h4><p>Call Assist · Writing Assist · Note Assist · Transcript Assist · Browsing Assist · Photo Assist · Weather Wallpaper · Now Brief</p></td>
+    <td width="50%"><h4>Performance-first</h4><p>No Galaxy AI on official builds: the AI stack is too heavy for 4-6 GB devices. You can still build it yourself if you want it.</p></td>
     <td width="50%"><h4>Knox Patches (no root)</h4><p>Secure Folder · Samsung Health · Samsung Flow · SmartThings · Auto Blocker · Secure Wi-Fi · Private Share · Samsung Cloud</p></td>
   </tr>
   <tr>
@@ -109,6 +111,8 @@ git clone https://github.com/LumiROM/LumiROM.git
 cd LumiROM
 bash build_local.sh -s SM-A325F -c EUX -i 353117555323497
 ```
+
+AI is disabled by default; add `--ai` if you want to build with Galaxy AI.
 
 Or fork the repo and run the **LumiROM Tools** workflow from the Actions tab.
 
