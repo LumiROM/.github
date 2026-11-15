@@ -69,13 +69,15 @@ Knox patches, EROFS compression and a performance-first profile - to give low-en
 
 ## Supported Devices
 
-| Device | Model | Fingerprint | Base |
-| :--- | :---: | :---: | :---: |
-| Galaxy A22 | SM-A225F | Side-FP | A24 (SM-A245F) |
-| Galaxy A32 | SM-A325F | FOD | A34 (SM-A346B) |
-| Galaxy A32 | SM-A325M | FOD | A34 (SM-A346B) |
-| Galaxy F22 | SM-E225F | Side-FP | A24 (SM-A245F) |
-| Galaxy M32 | SM-M325F | FOD | A34 (SM-A346B) |
+| Device | Model | Fingerprint |
+| :--- | :---: | :---: |
+| Galaxy A22 | SM-A225F | Side-FP |
+| Galaxy A32 | SM-A325F | FOD |
+| Galaxy A32 | SM-A325M | FOD |
+| Galaxy F22 | SM-E225F | Side-FP |
+| Galaxy M32 | SM-M325F | FOD |
+
+Base firmware: **Galaxy A34 (SM-A346B)**.
 
 </div>
 
