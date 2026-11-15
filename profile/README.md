@@ -36,12 +36,10 @@ Knox patches, EROFS compression and a performance-first profile - to give low-en
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>Cloudy</h3>
-      <p><b>OTA client for LumiROM.</b> Checks for updates, downloads the ROM, verifies SHA-256, and triggers installation in recovery - all from the phone. Self-updates too.</p>
-      <p><sub>Android app &bull; Kotlin &bull; Privileged system app</sub></p>
-      <a href="https://github.com/Luminous418/cloudy">
-        <img src="https://img.shields.io/badge/Cloudy-OTA_Updater-2563EB?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloudy">
-      </a>
+      <h3>LumiFota</h3>
+      <p><b>OTA client for LumiROM.</b> Built from scratch with the One UI 9 Software Update look, it checks for updates, downloads the ROM, verifies SHA-256 and triggers installation in recovery. It replaces the discontinued Cloudy app.</p>
+      <p><sub>Android app &bull; One UI 9 Software Update UI &bull; Privileged system app</sub></p>
+      <img src="https://img.shields.io/badge/LumiFota-OTA_Updater-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="LumiFota">
     </td>
   </tr>
   <tr>
@@ -101,7 +99,7 @@ Knox patches, EROFS compression and a performance-first profile - to give low-en
 ## Quick Start
 
 **Just want the ROM?**
-Get the latest flashable ZIP from the [Telegram channel](https://t.me/LumiROMs) and flash via Cloudy, recovery or ADB sideload.
+Get the latest flashable ZIP from the [Telegram channel](https://t.me/LumiROMs) and flash via LumiFota, recovery or ADB sideload.
 
 **Want to build it yourself?**
 
